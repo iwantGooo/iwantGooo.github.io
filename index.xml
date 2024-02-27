@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>hugo-theme-stack-master</title>
+        <link>http://example.org/</link>
+        <description>Recent content on hugo-theme-stack-master</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 27 Feb 2024 22:12:37 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>123</title>
+        <link>http://example.org/posts/123/</link>
+        <pubDate>Tue, 27 Feb 2024 22:12:37 +0800</pubDate>
+        
+        <guid>http://example.org/posts/123/</guid>
+        <description>&lt;h1 id=&#34;qwkdcwdnjmnalkf&#34;&gt;qwkdcwdnjmnalkf&lt;/h1&gt;
+&lt;p&gt;dkxjlewanlvnfkljrgv&lt;/p&gt;
+&lt;p&gt;klmaFLJVNGJ&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
